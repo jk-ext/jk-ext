@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-45d3-b7ab-83ca41940b1b.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="450"/>
 </p>
 
 <h1 align="center">Hi there, I'm JK 👋</h1>
