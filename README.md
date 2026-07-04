@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring Software Engineer | Backend & Python Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/jayakeerthi-m-a-a3b3b1288/)">
+  <a href="https://www.linkedin.com/in/jayakeerthi-m-a-a3b3b1288/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jm8592@srmist.edu.in">
