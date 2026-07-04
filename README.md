@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-45d3-b7ab-83ca41940b1b.gif" width="100%"/>
+</p>
+
 <h1 align="center">Hi there, I'm JK 👋</h1>
 <h3 align="center">Aspiring Software Engineer | Backend & Python Developer | Machine Learning Enthusiast</h3>
 
@@ -57,8 +61,6 @@ I'm a Computer Science & Business Systems student who enjoys building backend sy
 </p>
 
 ---
-
-
 
 ### 🚀 Featured Projects
 
