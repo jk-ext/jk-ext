@@ -34,7 +34,7 @@ I'm a Computer Science & Business Systems student who enjoys building backend sy
 
 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,c" height="60"/>
 </p>
 
 **Web Development**
