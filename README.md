@@ -91,7 +91,7 @@ I'm a Computer Science & Business Systems student who enjoys building backend sy
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://www.linkedin.com/in/jayakeerthi-m-a-a3b3b1288/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maj8925@gmail.com">
